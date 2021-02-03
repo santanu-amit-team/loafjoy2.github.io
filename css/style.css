@@ -8272,6 +8272,9 @@ hr {
     justify-content: space-between;
     align-items: flex-start;
     grid-gap: 3rem; }
+    .section_wrap .video {
+      width: 100%;
+      height: 310px; }
 
 /*....section_two
 ...........................*/
